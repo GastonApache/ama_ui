@@ -1,7 +1,8 @@
 # ama_ui
 
-Librairie de menus 2D pour FiveM, basée sur le rendu natif GTA V (DrawRect / DrawSprite / Text).
-Compatible **ESX Legacy** — conçue pour être utilisée avec **ama_module** et **es_extended**.
+Librairie de menus pour FiveM, basée sur le rendu natif GTA V (DrawRect / DrawSprite / Text).
+Compatible **ESX Legacy
+** — conçue pour être utilisée avec **ama_module** et **es_extended**.
 
 ---
 
